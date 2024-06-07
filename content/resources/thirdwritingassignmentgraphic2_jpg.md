@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/24-131-ethics-of-technology-spring-2023/thirdwritingassignmentgraphic2.jpg
+file_size: 11849
 file_type: image/jpeg
 image_metadata:
   caption: ''
