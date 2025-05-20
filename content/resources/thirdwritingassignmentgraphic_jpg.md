@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/24-131-ethics-of-technology-spring-2023/thirdwritingassignmentgraphic.jpg
+file: courses/ethics-of-technology/thirdwritingassignmentgraphic.jpg
 file_size: 85798
 file_type: image/jpeg
 image_metadata:
